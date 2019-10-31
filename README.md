@@ -5,7 +5,7 @@
  
 # Di Python ada 3 jenis pernyataan yang digunakan untuk percabangan, yaitu sebagai berikut.
 
-![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/python%203%20jenis.png)
+![Capture2](https://user-images.githubusercontent.com/56497294/67927465-3cf3ae80-fbeb-11e9-9157-f430fbfd9f6a.PNG)
 
  yang pertama kita akan membuat contoh bilangan yang memasukin bilangan satu sampai tiga
 
